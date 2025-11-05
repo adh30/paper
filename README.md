@@ -1,1 +1,1 @@
-Software Carpentry Git and Github demo
+# Software Carpentry Git and Github demo

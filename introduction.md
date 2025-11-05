@@ -7,3 +7,4 @@ This an introduction.
 * bullet 1
 * bullet 2
 
+See [analysis section](./analysis.md).

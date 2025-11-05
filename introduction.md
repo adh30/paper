@@ -8,3 +8,5 @@ This an introduction.
 * bullet 2
 
 See [analysis section](./analysis.md).
+See [methods](./methods.md)
+
